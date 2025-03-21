@@ -23,3 +23,20 @@ The dataset used for this analysis contains customer-level data with the followi
 
 ### Installation
 Clone the repository and run the Jupyter Notebook:
+
+``` https://github.com/Data-Epic/data-wrangling-Adenike-Awotunde.git ```
+```  cd data_ wrangling ```
+
+### Output File
+The final summarized dataset is exported as ``` processed_data_DD_MM-YYY.csv ```
+
+### Future Improvements
+- Integrate data visualization 
+- Perform cluster analysis for deeper segmentation.
+- Add predictive modeling based on loyalty scores.
+
+### Author
+Adenike Awotunde 
+- LinkedIn: https://www.linkedin.com/in/adenike-awotunde-b9740b80
+- Email: adenikeisblessed@gmail.com
+
